@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Toronto Mapple-Leafs",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525417Toronto-Nhl-Png-Logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Phoenix Coyotes",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525417Phoenix-Coyotes-Arizona-Logo-NHL.png"
+    },
+    {
+      "id": 3,
+      "name": "Colorado Avalanche",  
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525416colorado-avalanche-logo-nhl-png.png"
+    },
+    {
+      "id": 4,
+      "name": "Pittsburgh Penguins",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525416pittsburgh-penguins-nhl-logo.gif"
+    },
+    {
+      "id": 5,
+      "name": "Vancouver Canucks",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525416vancouver-canucks-nhl-logo-png.png"
+    },
+    {
+      "id": 6,
+      "name": "Anaheim Ducks",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525412anaheim-ducks-nhl-logo.png"
+    },
+    {
+      "id": 7,
+      "name": "Chicago Blackhawks",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525412Chicago-Blackhawks-nhl-logo.png"
+    },
+    {
+      "id": 8,
+      "name": "New York Rangers",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525411New-York-Rangers-Nhl-logo-png.png"
+    },
+    {
+      "id": 9,
+      "name": "Detroit Red Wings",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525409Detroit-Red-Wings-logo-png-nhl.png"
+    },
+    {
+      "id": 10,
+      "name": "Ottawa Senators",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525408the-ottawa-senators-nhl-logo.png"
+    },
+    {
+      "id": 11,
+      "name": "Columbus Blue Jackets",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525410Columbus-Blue-Jackets-Logo-Nhl-Logo.png"
+    },
+    {
+      "id": 12,
+      "name": "Vegas Golden Knights",
+      "clicked": false,
+      "image":
+        "https://clipart.info/images/ccovers/1526525410vegas-golden-knights-nhl-logo-official.png"
+    }
+  ]
+  
