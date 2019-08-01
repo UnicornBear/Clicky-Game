@@ -3,7 +3,7 @@
 # Overview
 This is a memory game using React. The application's UI is split into four components.
 
-(https://github.com/UnicornBear/clicky-game/blob/master/Capture.JPG?raw=true)
+![NHL Clicky Game](https://github.com/UnicornBear/clicky-game/blob/master/Capture.JPG?raw=true)
 
 # Instructions
 - The application should render different images (of your choice) to the screen. Each image should listen for click events.
